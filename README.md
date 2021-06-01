@@ -1,1 +1,2 @@
-# Coding Club
+# Coding-Club
+Coding Club Github
